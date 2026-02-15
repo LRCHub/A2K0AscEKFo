@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたを嫌いになっても",
+  "base_artist": "橋本裕太",
+  "createdAt": "2026-02-15T16:34:27.594469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたを嫌いになっても",
+      "artist": "橋本裕太",
+      "has_synced": false,
+      "path": "select/pl_01_あなたを嫌いになっても_橋本裕太.txt"
+    }
+  ]
+}
